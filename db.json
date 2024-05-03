@@ -55,7 +55,41 @@
           "id": "9",
           "name": "Sole",
           "url": "https://cdn.pixabay.com/photo/2017/08/01/08/29/woman-2563491_1280.jpg"
+        },
+        {
+          "id": "10",
+          "name": "Gallinas",
+          "url": "https://cdn.pixabay.com/photo/2024/04/29/17/20/swans-8728463_1280.jpg"
+        },
+        {
+          "id": "11",
+          "name": "Pájaro",
+          "url": "https://cdn.pixabay.com/photo/2024/04/30/23/42/bird-8731099_1280.jpg"
+        },
+        {
+          "id": "12",
+          "name": "Agus",
+          "url": "https://cdn.pixabay.com/photo/2024/04/30/20/03/animal-8730912_1280.jpg"
+        },
+        {
+          "id": "13",
+          "name": "Tulipanes",
+          "url": "https://cdn.pixabay.com/photo/2024/04/20/09/20/tulips-8708144_1280.jpg"
+        },
+        {
+          "id": "14",
+          "name": "Ardilla",
+          "url": "https://cdn.pixabay.com/photo/2024/04/13/03/50/squirrel-8693149_960_720.jpg"
+        },
+        {
+          "id": "15",
+          "name": "Corgi",
+          "url": "https://cdn.pixabay.com/photo/2024/03/06/16/08/dog-8616707_1280.jpg"
         }
+        
+        
+
+
         
       ]
   }
